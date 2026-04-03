@@ -106,8 +106,6 @@ GET /profile
 ## Future Improvements
 
 * PostgreSQL database support
-* Refresh token system
-* OAuth authentication
 * Role-based access control
 
 ---
