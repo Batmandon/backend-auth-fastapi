@@ -49,7 +49,7 @@ app/
 Clone the repository
 
 ```
-git clone https://github.com/Batmandon/fastapi-auth-system.git
+git clone https://github.com/Batmandon/FastAPI-Authentication-System.git
 cd fastapi-auth-system
 ```
 
